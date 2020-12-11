@@ -13,4 +13,4 @@ https://cmphillips23.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Connor Phillips
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
